@@ -4,11 +4,35 @@
 This is a Streamlit-based implementation of "The Weakest Link," a quiz game where players answer questions, bank money, 
 and try not to break the chain. Test your knowledge and see if you can become the strongest link!
 
+## Screenshots
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### Add Players
+![Add Players](screenshots/players.png)
+
+### Gameplay
+![Gameplay](screenshots/game.png)
+
+### Results Page
+![Results Page](screenshots/results.png)
+![Results Page](screenshots/results2.png)
+
+
 ## Features
-- Dynamic question answering with a timer.
-- Bank money and build a prize pool.
-- Interactive gameplay with keyboard controls for quick responses.
-- Real-time updates on statistics and game results.
+- **Player Management**: Add multiple players with individual statistics.
+- **Dynamic Question Pool**: A variety of trivia questions to test your knowledge.
+- **Money Chain Mechanic**: Build a prize pool by answering questions correctly.
+- **Banking System**: Secure your earnings by "banking" at the right time.
+- **Timer and Game Management**: Set custom game durations with a live countdown.
+- **Statistics Tracking**: View detailed stats for each player at the end of the game.
+- **Real-Time Updates**: Instant feedback on answers, banked amounts, and chain progress.
+- **Keyboard Controls**:
+  - `Q` or `q`: Mark the current answer as correct.
+  - `E` or `e`: Mark the current answer as wrong.
+  - Spacebar: Bank the current amount.
+- **Responsive UI**: Styled components for an immersive experience.
+- **Customizable Questions**: Easy to modify the question pool.
 
 ## Prerequisites
 - Python 3.8 or higher
