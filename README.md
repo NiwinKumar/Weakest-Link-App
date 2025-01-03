@@ -17,7 +17,7 @@ and try not to break the chain. Test your knowledge and see if you can become th
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Weakest-Link.git
+   git clone https://github.com/yourusername/Weakest-Link.git](https://github.com/NiwinKumar/Weakest-Link-App.git
    cd Weakest-Link
    ```
 2. Install the required dependencies:
